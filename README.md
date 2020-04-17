@@ -2,7 +2,7 @@
 
 ## Installation
 
-- Installer Python 3.x (testé avec python 3.8)
+- Installer Python 3.x (testé avec python 3.5 & 3.8)
 - Installer les dépendances:
 
 ```
